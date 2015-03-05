@@ -1,0 +1,24 @@
+{
+  "name": "shmammered-text",
+  "version": "1.0.0",
+  "description": "A text converter that takes regular speech and converts it to drunk-sounding text. Inspired by World of Warcraft.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ingshtrom/shmammered-text.git"
+  },
+  "keywords": [
+    "wow",
+    "drunk",
+    "textconverter"
+  ],
+  "author": "Alex \"Ingshtrom\" Hokanson <alex.hokanson@mysticgear.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ingshtrom/shmammered-text/issues"
+  },
+  "homepage": "https://github.com/ingshtrom/shmammered-text"
+}
